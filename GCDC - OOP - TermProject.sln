@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33414.496
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GCDC - OOP - TermProject", "GCDC - OOP - TermProject\GCDC - OOP - TermProject.csproj", "{3E10E20A-31C3-4996-AED0-BAB964C5C586}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{76F2D1EF-8F49-4AE4-911D-FA5FF3998C91}"
+	ProjectSection(SolutionItems) = preProject
+		Products.xml = Products.xml
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValidateStockTest", "ValidateStockTest\ValidateStockTest.csproj", "{65EC2CC8-6A08-4FF7-9067-2D4F2EF4333A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3E10E20A-31C3-4996-AED0-BAB964C5C586}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E10E20A-31C3-4996-AED0-BAB964C5C586}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E10E20A-31C3-4996-AED0-BAB964C5C586}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E10E20A-31C3-4996-AED0-BAB964C5C586}.Release|Any CPU.Build.0 = Release|Any CPU
+		{65EC2CC8-6A08-4FF7-9067-2D4F2EF4333A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65EC2CC8-6A08-4FF7-9067-2D4F2EF4333A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65EC2CC8-6A08-4FF7-9067-2D4F2EF4333A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65EC2CC8-6A08-4FF7-9067-2D4F2EF4333A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1F613875-0B2D-4378-929C-7011B86F0941}
+	EndGlobalSection
+EndGlobal
